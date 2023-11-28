@@ -63,7 +63,7 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 
 ## Projets
 
-- [Planorama]([lien_vers_Planorama](https://github.com/cOpeRency/edt_unilim)) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
+- [Planorama](https://github.com/cOpeRency/edt_unilim) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
 - [Latice]([lien_vers_le_latice](https://github.com/cOpeRency/portfolio)) - Application Java/JavaFx, jeu de plateau sur PC
 - [BUT_Explorer]([lien_vers_BUT_Explorer](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
 - [BUT_Explorer_VR]([lien_vers_BUT_Explorer_VR](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
