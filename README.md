@@ -2,7 +2,22 @@
 
 Bienvenue sur mon portfolio ! Je suis un étudiant en [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) avec des compétences variées dans le domaine de l'informatique.
 
-## Compétences
+## Parcours
+
+J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, pour suivre une voie générale avec comme spécialités : Mathématiques, Sciences de l’Ingénieur, Numérique et Sciences Informatiques. J’ai fini par décrocher mon BAC en 2021.
+
+## Compétences personnelles
+
+- Développement web :
+- Développement mobile : ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+- Gestion des données : ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+- Réseau et mise en production : ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Travail collaboratif : ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- Chaine d'intégration continue : ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  
+
+
+## Compétences travaillées en BUT Informatique
 
 ### Réalisation d'un développement d’application
 
