@@ -25,6 +25,8 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 
 ## Compétences travaillées en BUT Informatique
 
+Voici ci-dessous les différentes compétences que j'ai pu développer durant ma formation. Dans chaque projets vous pouvez voir quelles sont les compétences qui ont été mobilisées, et de quelle manière.
+
 ### Réalisation d'un développement d’application
 
 - Élaboration d'applications informatiques.
@@ -64,6 +66,7 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 ## Projets
 
 - [Planorama](https://github.com/cOpeRency/planorama) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
+- [Cluster Swarm](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
 - [Latice]([lien_vers_le_latice](https://github.com/cOpeRency/portfolio)) - Application Java/JavaFx, jeu de plateau sur PC
 - [BUT_Explorer]([lien_vers_BUT_Explorer](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
 - [BUT_Explorer_VR]([lien_vers_BUT_Explorer_VR](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
