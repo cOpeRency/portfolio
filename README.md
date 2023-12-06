@@ -67,7 +67,7 @@ Voici ci-dessous les différentes compétences que j'ai pu développer durant ma
 
 - [Planorama](https://github.com/cOpeRency/planorama) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
 - [Cluster Swarm](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
-- [Latice]([lien_vers_le_latice](https://github.com/cOpeRency/portfolio)) - Application Java/JavaFx, jeu de plateau sur PC
+- [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
 - [BUT_Explorer]([lien_vers_BUT_Explorer](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
 - [BUT_Explorer_VR]([lien_vers_BUT_Explorer_VR](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
 
