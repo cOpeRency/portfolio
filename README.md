@@ -25,16 +25,6 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 
 -Communication : à l'aise et à l'écoute avec les gens.
 
-## Passions
-
-Je ne suis pas du genre à me contenter d'un seul secteur d'activité, je m'intéresse à pleins de choses dans la vie, donc voici mes 3 passions principales en dehors du développement logiciel :
-
-![img](https://github.com/coperency/portfolio/blob/main/images/pages/4.png?raw=true)
-
-![img](https://github.com/coperency/portfolio/blob/main/images/pages/5.png?raw=true)
-
-![img](https://github.com/coperency/portfolio/blob/main/images/pages/6.png?raw=true)
-
 
 ## Compétences travaillées en BUT Informatique
 
@@ -90,5 +80,15 @@ Cette liste est vouée à évoluer, le temps de documenter certains projets avan
 - Python_Mini_Games - Ensemble de mini-jeux en ligne de commande développés en python (puissance 4, morpion, devinettes, jeu des allumettes)
 - FairyBlossomWSL - Site web permettant la création de plantes, de catégories, et l'affiche d'un calendrier de plantation, développé en Symfony
 - Gardeners - Site web permettant la création et gestion de jardins/potagers, développé en Laravel
+
+## Passions
+
+Je ne suis pas du genre à me contenter d'un seul secteur d'activité, je m'intéresse à pleins de choses dans la vie, donc voici mes 3 passions principales en dehors du développement logiciel :
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/4.png?raw=true)
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/5.png?raw=true)
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/6.png?raw=true)
 
 Merci de votre visite !
