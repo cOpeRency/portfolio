@@ -1,4 +1,4 @@
-# Portfolio
+ç# Portfolio
 
 Bienvenue sur mon portfolio ! Je m'appelle Samuel et je suis un étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) qui aime faciliter l'utilisation des applications et en développer de nouvelles. J'apprécie particulièrement les projets en équipe, car cela nous permet de mutualiser nos compétences et connaissances, afin de créer un produit pertinent, utile, agréable et accessible ! L'interraction avec d'autres personnes permet de stimuler notre créativité et créer une motivation globale autour d'un projet.
 
@@ -24,6 +24,17 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 -Gestion de projet : méthodologie AGILE, sprints SCRUM.
 
 -Communication : à l'aise et à l'écoute avec les gens.
+
+## Passions
+
+Je ne suis pas du genre à me contenter d'un seul secteur d'activité, je m'intéresse à pleins de choses dans la vie, donc voici mes 3 passions principales en dehors du développement logiciel :
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/4.png?raw=true)
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/5.png?raw=true)
+
+![img](https://github.com/coperency/portfolio/blob/main/images/pages/6.png?raw=true)
+
 
 ## Compétences travaillées en BUT Informatique
 
