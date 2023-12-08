@@ -1,4 +1,4 @@
-ç# Portfolio
+# Portfolio
 
 Bienvenue sur mon portfolio ! Je m'appelle Samuel et je suis un étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) qui aime faciliter l'utilisation des applications et en développer de nouvelles. J'apprécie particulièrement les projets en équipe, car cela nous permet de mutualiser nos compétences et connaissances, afin de créer un produit pertinent, utile, agréable et accessible ! L'interraction avec d'autres personnes permet de stimuler notre créativité et créer une motivation globale autour d'un projet.
 
