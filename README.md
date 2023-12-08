@@ -78,12 +78,17 @@ Voici ci-dessous les différentes compétences que j'ai pu développer durant ma
 
 ## Projets
 
+Voici un aperçu des projets sur lesquels j'ai travaillé, vous pouvez consulter les projets github et découvrir les compétences qui ont été mobilisées durant ceux-ci.
+Cette liste est vouée à évoluer, le temps de documenter certains projets avant de les proposer ici.
+
 - [Planorama](https://github.com/cOpeRency/planorama) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
 - [Cluster Swarm](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
 - [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
-- [BUT_Explorer](https://github.com/cOpeRency/portfolio) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
-- [BUT_Explorer_VR](https://github.com/cOpeRency/portfolio) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
+- BUT_Explorer - EscapeGame 3D intéractif pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
+- BUT_Explorer_VR - Initiation à la réalité virtuelle en apprenant les bonnes pratiques de programmation, pour des Journées Portes Ouvertes, réalisé sur Unity, en C#
+- Truckers - Service Android permettant l'écoute et la récupération de messages reçu sur des smartphones professionnels
+- Python_Mini_Games - Ensemble de mini-jeux en ligne de commande développés en python (puissance 4, morpion, devinettes, jeu des allumettes)
+- FairyBlossomWSL - Site web permettant la création de plantes, de catégories, et l'affiche d'un calendrier de plantation, développé en Symfony
+- Gardeners - Site web permettant la création et gestion de jardins/potagers, développé en Laravel
 
-N'hésitez pas à explorer mes projets pour en savoir plus sur mes compétences et mes réalisations.
-
-Merci de visiter mon portfolio !
+Merci de votre visite !
