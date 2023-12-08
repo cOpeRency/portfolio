@@ -1,6 +1,8 @@
 # Portfolio
 
-Bienvenue sur mon portfolio ! Je suis un étudiant en [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) avec des compétences variées dans le domaine de l'informatique.
+Bienvenue sur mon portfolio ! Je m'appelle Samuel et je suis un étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) qui aime faciliter l'utilisation des applications et en développer de nouvelles. J'apprécie particulièrement les projets en équipe, car cela nous permet de mutualiser nos compétences et connaissances, afin de créer un produit pertinent, utile, agréable et accessible ! L'interraction avec d'autres personnes permet de stimuler notre créativité et créer une motivation globale autour d'un projet.
+
+J'aimerais plus tard participer à des projets orientés développement durable et protection de l'environnement.
 
 ## Parcours
 
@@ -19,9 +21,9 @@ J’ai étudié au lycée polyvalent Jean Favard situé à Guéret en Creuse, po
 
 ### Soft Skills
 
--Gestion de projet : méthodologie AGILE, sprints SCRUM
+-Gestion de projet : méthodologie AGILE, sprints SCRUM.
 
--Communication : à l'aise avec les gens
+-Communication : à l'aise et à l'écoute avec les gens.
 
 ## Compétences travaillées en BUT Informatique
 
@@ -68,8 +70,8 @@ Voici ci-dessous les différentes compétences que j'ai pu développer durant ma
 - [Planorama](https://github.com/cOpeRency/planorama) - Application mobile (IOS/Android), permettant de visionner facilement les emplois du temps, ainsi que le journal étudiant.
 - [Cluster Swarm](https://github.com/cOpeRency/Cluster_Swarm) - Création d'un environnement de production : déploiement d'application, cluster Swarm, reverse-proxy, monitoring etc...
 - [Latice](https://github.com/cOpeRency/Latice_but1) - Application Java/JavaFx, jeu de plateau Latice sur PC
-- [BUT_Explorer]([lien_vers_BUT_Explorer](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
-- [BUT_Explorer_VR]([lien_vers_BUT_Explorer_VR](https://github.com/cOpeRency/portfolio)) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
+- [BUT_Explorer](https://github.com/cOpeRency/portfolio) - EscapeGame 3D intéractif, réalisé sur Unity, en C#
+- [BUT_Explorer_VR](https://github.com/cOpeRency/portfolio) - EscapeGame 3D intéractif VR, réalisé sur Unity, en C#
 
 N'hésitez pas à explorer mes projets pour en savoir plus sur mes compétences et mes réalisations.
 
